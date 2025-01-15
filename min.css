@@ -666,7 +666,7 @@ table tr td,table tr th {
     display: -webkit-box;
     overflow: hidden;
     -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical
+    -webkit-box-orient: vertical;
         font-style: italic;
 }
 
