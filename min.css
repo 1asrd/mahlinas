@@ -516,7 +516,8 @@ table tr td,table tr th {
 .item-home .item-post-home {
     width: calc(100%/4);
     box-sizing: border-box;
-    margin: 0 0 10px;
+    padding: 0 10px;
+    
     word-wrap: break-word
 }
 
