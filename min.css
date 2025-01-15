@@ -75,7 +75,7 @@ pre {
 a {
     cursor: pointer;
     text-decoration: none;
-    color: var(--keylink)
+    color: color: #202ecd;
 }
 
 b,strong {
