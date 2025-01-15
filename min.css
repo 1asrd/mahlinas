@@ -1025,7 +1025,7 @@ a.blog-pager-older-link {
     border-radius: 4px;
     padding: 12px 45px;
     border: 0 solid var(--font-body-color);
-    color: #fff
+    color: #fff;
     font-weight: 400;
     display: inline-flex;
     justify-content: center;
