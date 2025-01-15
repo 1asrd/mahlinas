@@ -1024,8 +1024,8 @@ body {
 a.blog-pager-older-link {
     border-radius: 4px;
     padding: 12px 45px;
-    border: 1px solid var(--font-body-color);
-    color: var(--font-body-color);
+    border: 0 solid var(--font-body-color);
+    color: #fff
     font-weight: 400;
     display: inline-flex;
     justify-content: center;
@@ -1035,7 +1035,8 @@ a.blog-pager-older-link {
     overflow: hidden;
     text-transform: capitalize;
     line-height: 1;
-    transition: .3s ease-in-out
+    transition: .3s ease-in-out;
+    background:#000;
 }
 
 a.blog-pager-older-link:before {
