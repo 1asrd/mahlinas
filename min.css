@@ -550,7 +550,8 @@ table tr td,table tr th {
     vertical-align: top;
     padding: 0 20px;
     position: relative;
-    z-index: 2
+    z-index: 2;
+    letter-spacing: 1.5px;
 }
 
 .item-home .item-title-home a {
