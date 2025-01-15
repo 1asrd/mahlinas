@@ -79,7 +79,9 @@ a {
 }
 
 b,strong {
-    font-weight: 100
+    font-weight: 100;
+        font-style: normal;
+    
 }
 
 img {
@@ -659,12 +661,13 @@ table tr td,table tr th {
 }
 
 .item-view .item-price,.item-view .item-title-product {
-    font-size: 150%;
+    font-size: 170%;
     overflow-wrap: break-word;
     display: -webkit-box;
     overflow: hidden;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical
+        font-style: italic;
 }
 
 .item-view .temabanua-detail,.detailDescription {
