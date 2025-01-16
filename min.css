@@ -586,7 +586,7 @@ table tr td,table tr th {
     }
 }
 @media only screen and (max-width: 800px) {
-    .item-wrappers .item-wrapp {
+    .item-wrappers, .item-home {
         padding:0;
         display: none;
     }
