@@ -574,6 +574,10 @@ table tr td,table tr th {
     .item-home .title-homepage {
         font-size:35px
     }
+    @media(min-width: 1025px) {
+    .item-wrappers .title-homepage {
+        font-size:35px
+    }
 
     .title-homepage .text {
         width: 300px
