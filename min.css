@@ -574,10 +574,6 @@ table tr td,table tr th {
     .item-home .title-homepage {
         font-size:35px
     }
-    @media(min-width: 1025px) {
-    .item-wrappers .title-homepage {
-        font-size:35px
-    }
 
     .title-homepage .text {
         width: 300px
@@ -589,7 +585,11 @@ table tr td,table tr th {
         padding:15px
     }
 }
-
+@media only screen and (max-width: 800px) {
+    .item-wrappers {
+        padding:0
+    }
+}
 @media only screen and (max-width: 640px) {
     .owl-carousel .owl-nav button.owl-prev,.owl-carousel .owl-nav button.owl-next {
         width:25px;
