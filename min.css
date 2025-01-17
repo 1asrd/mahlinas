@@ -859,7 +859,7 @@ body {
 }
 
 .post-wrapper,.search-view .item-wrapper,html.archive-view .item-wrapper {
-    padding: 70px 0 0;
+    padding: 0;
     
 }
 
@@ -1347,7 +1347,7 @@ a.blog-pager-older-link:before,a.blog-pager-older-link:hover {
     }
 
     .post-wrapper,html.archive-view .item-wrapper,.search-view .item-wrapper {
-        padding: 0;
+        padding: 70px 0 0;
         width: 100%;
         margin: 0 auto;
     }
