@@ -764,7 +764,7 @@ body {
 }
 
 .item-homepage #header-temabanua {
-    border-bottom: 0
+    border-bottom: 1px solid #efefef;
 }
 
 #header-temabanua {
