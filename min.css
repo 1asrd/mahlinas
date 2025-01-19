@@ -983,10 +983,10 @@ body {
 }
 
 .item-home .item-title-product {
-    font-weight: 100;
+    font-weight: 200;
     display: block;
     margin: 0 0 6px;
-    font-size: 14px
+    font-size: 16px
 }
 
 .item-home .item-title-product a {
