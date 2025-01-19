@@ -631,7 +631,7 @@ table tr td,table tr th {
 .item-home .img-product-wrap {
     display: block;
     position: relative;
-    padding-top: 125%
+    padding-top: 120%
 }
 
 .item-home .item-post-wrap:hover .img-product-wrap a:nth-child(2) {
