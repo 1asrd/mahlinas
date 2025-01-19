@@ -1754,7 +1754,18 @@ a.blog-pager-older-link:before,a.blog-pager-older-link:hover {
     width: 100%;
     box-sizing: border-box
 }
-
+#footer,#item-hot-sales .widget {
+    margin-top: 60px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2vw 15px;
+        width: 100vw;
+        margin: 0 auto;
+    background: linear-gradient(90deg, rgb(255 255 255) 37%, rgba(178, 235, 8, 0.9234287464985994) 100%);
+}
+}
 #footer ul {
     margin: 0;
     padding: 0;
