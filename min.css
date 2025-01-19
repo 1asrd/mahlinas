@@ -573,7 +573,7 @@ table tr td,table tr th {
 
 @media(min-width: 1025px) {
     .item-home .title-homepage {
-        font-size:40px
+        font-size:38px
     }
 
     .title-homepage .text {
@@ -986,7 +986,7 @@ body {
     font-weight: 200;
     display: block;
     margin: 0 0 6px;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.5em;
 }
 
