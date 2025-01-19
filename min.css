@@ -550,7 +550,7 @@ table tr td,table tr th {
 .item-home .title-homepage .text {
     font-weight: 700;
     background: var(--background-body);
-    display: inline-block;
+    display: ;
     vertical-align: top;
     padding: 0 20px;
     position: relative;
@@ -573,7 +573,7 @@ table tr td,table tr th {
 
 @media(min-width: 1025px) {
     .item-home .title-homepage {
-        font-size:35px
+        font-size:40px
     }
 
     .title-homepage .text {
