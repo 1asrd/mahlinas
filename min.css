@@ -907,6 +907,20 @@ body {
     font-weight: 400
 }
 
+  #custom-content {
+    position: relative; /* إضافة هذه الخاصية لضمان العرض الصحيح */
+    z-index: 1; /* رفع الأولوية للعرض فوق العناصر الأخرى */
+  }
+
+  .label-content {
+    display: none; /* إخفاء جميع المحتويات افتراضيًا */
+  }
+
+  /* إخفاء المحتوى داخل #related-wrapper */
+  #related-wrapper .label-content {
+    display: none !important;
+  }
+
 .item-view .breadcrumbs,.archive-view .breadcrumbs {
     margin: 15px 0;
     padding: 10px 0
