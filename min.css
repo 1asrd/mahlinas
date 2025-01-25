@@ -85,8 +85,9 @@ b,strong {
     
 }
 .price-value {
-  font-size: 30px; /* تعيين حجم الخط إلى 24px */
+  font-size: 24px; /* تعيين حجم الخط إلى 24px */
 }
+
 img {
     max-width: ;
     display: block
